@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aiy:home|Door43 (aiy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aiy|d43-aiy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aiy/archive/master.zip|d43-aiy.zip]]
+
+**Recent Changes**
+{{changes>ns = aiy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aiy|Ethnologue data]]
+
